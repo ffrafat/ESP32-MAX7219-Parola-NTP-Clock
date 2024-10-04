@@ -23,10 +23,11 @@ String date;
 // =======================================================================
 // CHANGE YOUR WIFI CONFIG HERE
 // =======================================================================
-const char* ssid     = "RUBEL";     // SSID of your router (Must be 2.4 GHz)
-const char* password = "ecsbd123";   // WiFi Password of your router
+const char* ssid     = "Frequency_plus";     // SSID of your router (Must be 2.4 GHz)
+const char* password = "43212110";   // WiFi Password of your router
 float utcOffset = 6; // Time Zone setting (For GMT +6 I have put 6 here. If you have GMT+3.5 then put 3.5 here.)
-// =======================================================================
+// ======================================
+=================================
 
 void setup() 
 {
